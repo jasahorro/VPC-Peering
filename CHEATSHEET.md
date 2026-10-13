@@ -1,5 +1,7 @@
 # VPC Peering — Cheat Sheet
 
+> 📚 **Part 6 of 9** in my [AWS VPC Series](https://github.com/jasahorro/AWS-VPC-Series) · ← Previous: [Testing VPC Connectivity](https://github.com/jasahorro/Testing-VPC-Connectivity/blob/main/CHEATSHEET.md) · Next: [VPC Monitoring with Flow Logs](https://github.com/jasahorro/VPC-Monitoring-with-Flow-Logs/blob/main/CHEATSHEET.md) →
+
 Lesson notes for reviewing later. The project write-up is in [README.md](README.md).
 
 ## Contents
